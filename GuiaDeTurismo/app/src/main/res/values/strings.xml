@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Guia De Turismo</string>
+    <string name="google_places_api_key">API_KEY</string>
+
+</resources>
